@@ -1,4 +1,24 @@
 {
+  "CF236554420": {
+    "contest_id": 1904,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1904\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Collecting Game",
+    "problem_url": "https://codeforces.com/contest/1904/problem/B",
+    "submission_id": "CF236554420",
+    "submission_url": "https://codeforces.com/contest/1904/submission/236554420",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*1100"
+    ],
+    "timestamp": "Dec/09/2023 22:50"
+  },
   "CF236625050": {
     "contest_id": 1904,
     "language": "C++20 (GCC 11-64)",
