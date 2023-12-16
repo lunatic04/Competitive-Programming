@@ -1,4 +1,24 @@
 {
+  "CF237457744": {
+    "contest_id": 1731,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1731\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Valiant's New Map",
+    "problem_url": "https://codeforces.com/contest/1731/problem/D",
+    "submission_id": "CF237457744",
+    "submission_url": "https://codeforces.com/contest/1731/submission/237457744",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dp",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Dec/16/2023 18:18"
+  },
   "CF237475942": {
     "contest_id": 1905,
     "language": "C++20 (GCC 11-64)",
