@@ -1,4 +1,21 @@
 {
+  "CF237505679": {
+    "contest_id": 1905,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1905\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Begginer's Zelda",
+    "problem_url": "https://codeforces.com/contest/1905/problem/B",
+    "submission_id": "CF237505679",
+    "submission_url": "https://codeforces.com/contest/1905/submission/237505679",
+    "tags": [
+      "greedy",
+      "trees",
+      "*1100"
+    ],
+    "timestamp": "Dec/16/2023 21:07"
+  },
   "CF237576345": {
     "contest_id": 1905,
     "language": "C++20 (GCC 11-64)",
