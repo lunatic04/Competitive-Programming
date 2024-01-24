@@ -1,4 +1,21 @@
 {
+  "CF243137372": {
+    "contest_id": 1740,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1740\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Knowledge Cards",
+    "problem_url": "https://codeforces.com/contest/1740/problem/D",
+    "submission_id": "CF243137372",
+    "submission_url": "https://codeforces.com/contest/1740/submission/243137372",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "*1500"
+    ],
+    "timestamp": "Jan/24/2024 18:38"
+  },
   "CF243878547": {
     "contest_id": 1925,
     "language": "C++20 (GCC 11-64)",
