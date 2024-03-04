@@ -1,4 +1,22 @@
 {
+  "CF249622251": {
+    "contest_id": 1621,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1621\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Integers Shop",
+    "problem_url": "https://codeforces.com/contest/1621/problem/B",
+    "submission_id": "CF249622251",
+    "submission_url": "https://codeforces.com/contest/1621/submission/249622251",
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Mar/04/2024 21:32"
+  },
   "CF249639781": {
     "contest_id": 1198,
     "language": "C++20 (GCC 11-64)",
