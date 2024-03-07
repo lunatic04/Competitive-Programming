@@ -1,4 +1,23 @@
 {
+  "CF250126742": {
+    "contest_id": 1935,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1935\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Exam in MAC",
+    "problem_url": "https://codeforces.com/contest/1935/problem/D",
+    "submission_id": "CF250126742",
+    "submission_url": "https://codeforces.com/contest/1935/submission/250126742",
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "implementation",
+      "math",
+      "*1800"
+    ],
+    "timestamp": "Mar/08/2024 00:39"
+  },
   "CF250168967": {
     "contest_id": 1833,
     "language": "C++20 (GCC 11-64)",
