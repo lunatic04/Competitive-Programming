@@ -1,4 +1,22 @@
 {
+  "CF250416939": {
+    "contest_id": 1702,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1702\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Split Into Two Sets",
+    "problem_url": "https://codeforces.com/contest/1702/problem/E",
+    "submission_id": "CF250416939",
+    "submission_url": "https://codeforces.com/contest/1702/submission/250416939",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "*1600"
+    ],
+    "timestamp": "Mar/10/2024 01:06"
+  },
   "CF251628636": {
     "contest_id": 1948,
     "language": "C++17 (GCC 7-32)",
