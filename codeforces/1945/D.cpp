@@ -209,6 +209,8 @@ void solve(){
      temp= temp -a[i+1]+a[i]+b[i+1];
      ans = min(temp,ans);
 
+    // ans = min(ans , ans-a[m]+a[i]+cnt);
+    // cnt += b[i];
  }
  cout<<ans<<"\n";
 
