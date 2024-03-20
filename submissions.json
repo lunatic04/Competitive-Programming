@@ -1,4 +1,21 @@
 {
+  "CF252410564": {
+    "contest_id": 1945,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1945\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Seraphim the Owl",
+    "problem_url": "https://codeforces.com/contest/1945/problem/D",
+    "submission_id": "CF252410564",
+    "submission_url": "https://codeforces.com/contest/1945/submission/252410564",
+    "tags": [
+      "dp",
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Mar/20/2024 13:20"
+  },
   "CF252934417": {
     "contest_id": 1946,
     "language": "C++17 (GCC 7-32)",
